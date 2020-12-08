@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "896760356806",
+    "firebase_url": "https://aijastice.firebaseio.com",
+    "project_id": "aijastice",
+    "storage_bucket": "aijastice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896760356806:android:77e4ba485a02ae65bfdcc7",
+        "android_client_info": {
+          "package_name": "com.example.trialrefrence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896760356806-fi09c37hugqmi6bv9a22lhd0c2n93798.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trialrefrence",
+            "certificate_hash": "08423a5d98c4c0bcd9caa0863ee69870eee902ab"
+          }
+        },
+        {
+          "client_id": "896760356806-gkpucoprugup429th04phafnlc9h1d65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMPWU7ZxmdL7YnJQuFwSEIOK0Kj2SKUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896760356806-gkpucoprugup429th04phafnlc9h1d65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
